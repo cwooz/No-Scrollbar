@@ -1,6 +1,6 @@
-# [Modern React Bootcamp - Course Repository](#)
+# [No-Scrollbar](#)
 
-Course Repository for Modern React Bootcamp, powered by [javascript, node, express, react](#).
+Chrome Browser Extension for removing the side scroll-bar, powered by [chrome, css, javascript](#).
 
 ##### Try version `1.0.0-beta` using the following [link](#). Thanks!
 
